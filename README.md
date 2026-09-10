@@ -251,3 +251,6 @@ This repository serves as the official landing page for Microsoft Small Basic. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Microsoft Small Basic today!**
+
+---
+**Last updated:** 2026-09-10 17:36:25 UTC
